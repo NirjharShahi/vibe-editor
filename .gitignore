@@ -3,3 +3,18 @@ node_modules/
 .next/
 .env
 .env.local
+
+# Generated output
+output/
+
+
+# Dependencies inside starter templates
+vibecode-starters/**/node_modules/
+
+# Build folders inside starter templates
+vibecode-starters/**/.next/
+vibecode-starters/**/dist/
+vibecode-starters/**/build/
+
+# Environment files inside starter templates
+vibecode-starters/**/.env*
