@@ -1,3 +1,11 @@
+## Acknowledgements
+
+This project uses starter templates derived from the StackBlitz Starters project.
+
+https://github.com/stackblitz/starters
+
+The starter templates are licensed under the MIT License.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
