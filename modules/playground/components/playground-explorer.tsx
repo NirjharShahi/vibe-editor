@@ -402,7 +402,7 @@ function TemplateNode({
           className="group/collapsible [&[data-state=open]>div>button>svg:first-child]:rotate-90"
         >
           <div className="flex items-center group">
-            <CollapsibleTrigger>
+            <CollapsibleTrigger >
               <SidebarMenuButton className="flex-1">
                 <ChevronRight className="transition-transform" />
                 <Folder className="h-4 w-4 mr-2 shrink-0" />
